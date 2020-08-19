@@ -3,3 +3,4 @@ What is this another file?
 newline2
 
 File2 newline
+File2 newline2
