@@ -6,3 +6,4 @@ Somethingelse
 
 File 1 newline
 File 1 newline2
+File 1 newline3
