@@ -1,3 +1,4 @@
 Hello from file1
 New stuff from main branch
 New changes in branch new feature.
+Newline1
