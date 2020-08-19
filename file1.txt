@@ -3,3 +3,5 @@ New stuff from main branch
 New changes in branch new feature.
 Newline1
 Somethingelse
+
+File 1 newline
